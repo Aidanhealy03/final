@@ -1,6 +1,7 @@
 @charset "utf-8";
 Img {position: absolute;}
 .clock {
-	left: 769px;
-top: 319px;
+	padding-left: 769px;
+padding-top: 319px;
 }
+
