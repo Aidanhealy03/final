@@ -1,0 +1,12 @@
+@charset "utf-8";
+p {
+    position: fixed;
+    font-size: 26px;
+    visibility: visible;
+}
+.bad {
+    color: #FF0000;
+    top: 420px;
+    font-size: 26px
+ 
+}

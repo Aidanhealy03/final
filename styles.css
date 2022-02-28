@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+
+.good {
+	color: #FD0000
+}
+img {position: absolute;}
+
+.Face{
+	left: 550px;
+top: 210px;
+}
+
+p {position:fixed;}
+
+
+.RED {
+    color: #FF0004;
+    top: 420px;
+    font-size: 26px;
+}
+
+
+.BLUE {
+    color: #0200FD;
+    top: 420px;
+    text-align: right;
+    font-size: 26px;
+    outline-color: #2200FF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-decoration: underline;
+    visibility: inherit;
+}
+
+p {
+	top: 420px;
+    font-size: 26px
+}
+
+.clock {
+	left: 769px;
+top: 319px;
+}
+
